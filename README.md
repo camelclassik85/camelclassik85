@@ -45,7 +45,7 @@
   <code><img width="5%" title="Jira" src="images/jira.png"></code>
   <code><img width="5%" title="Confluence" src="images/confluence.png"></code>
   <code><img width="5%" title="Postman" src="images/postman.png"></code>
-  <code><img width="5%" title="Requests" src="images/requests.png"></code>
+  <code><img width="4%" title="Requests" src="images/requests.png"></code>
 </p>
 
 <!--Projects-->
