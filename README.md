@@ -31,8 +31,6 @@
   <code><img width="5%" title="Pytest" src="images/pytest.png"></code>
   <code><img width="5%" title="Selene" src="images/selene.png"></code>
   <code><img width="4.5%" title="Selenium" src="images/selenium.png"></code>
-  <code><img width="5%" title="Allure Report" src="images/allure_report.png"></code>
-  <code><img width="5%" title="Allure TestOps" src="images/allure_testops.png"></code>
   <code><img width="5%" title="Appium" src="images/appium.svg"></code>
 </p>
 
@@ -46,6 +44,8 @@
   <code><img width="5%" title="Confluence" src="images/confluence.png"></code>
   <code><img width="5%" title="Postman" src="images/postman.png"></code>
   <code><img width="4%" title="Requests" src="images/requests.png"></code>
+  <code><img width="5%" title="Allure Report" src="images/allure_report.png"></code>
+  <code><img width="5%" title="Allure TestOps" src="images/allure_testops.png"></code>
 </p>
 
 <!--Projects-->
