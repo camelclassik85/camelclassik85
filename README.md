@@ -9,7 +9,6 @@
 
 ## About me
 - I'm manual and automation Engineer from Obninsk.
-- I'm work QA about 3 years.
 - I write autotests in Python
 - Email: camel1985@mail.ru
 - Contacts:
