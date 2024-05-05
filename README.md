@@ -1,16 +1,60 @@
-### Hi there 👋
+<div align="center">
+   <h1>
+      Hi there, I'm Alexander 👋
+   </h1>
+</div>
 
-<!--
-**camelclassik85/camelclassik85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--About me-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :technologist:About me
+- I'm manual and automation Engineer from Obninsk.
+- I'm work QA about 3 years.
+- I write autotests in Python
+- Email: camel1985@mail.ru
+- Contacts:
+
+<p>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://t.me/Alexander_Dulalaev"><img width="32px" alt="Telegram" title="Telegram" src="images/tg.png"/></a>
+  &#8287;
+  <a href="https://www.linkedin.com/in/alexander-dulalaev"><img width="35px" alt="LinkedIn" title="LinkedIn" src="images/linkedin.png/"></a>
+  &#8287;
+ <a href="mailto:camelclassik1985@gmail.com"><img width="38px" alt="Write me Email" title="Gmail" src="images/gmail.png"/></a>
+  
+<!--Stack and tools-->
+
+&#8287;&#8287;&#8287;&#8287;&#8287;
+## :Stack
+<p  align="center">
+  <code><img width="5%" title="Python" src="images/python.png"></code>
+  <code><img width="5%" title="Pytest" src="images/pytest.png"></code>
+  <code><img width="5%" title="Selene" src="images/selene.png"></code>
+  <code><img width="5%" title="Selenium" src="images/selenium.png"></code>
+  <code><img width="5%" title="Allure Report" src="images/allure_report.png"></code>
+  <code><img width="5%" title="Allure TestOps" src="images/allure_testops.png"></code>
+  <code><img width="5%" title="Appium" src="images/appium.svg"></code>
+</p>
+
+&#8287;&#8287;&#8287;&#8287;&#8287;
+## :Tools
+<p  align="center">
+  <code><img width="5%" title="Pycharm" src="images/intellij_pycharm.png"></code>
+  <code><img width="5%" title="Jenkins" src="images/jenkins.png"></code>
+  <code><img width="5%" title="Selenoid" src="images/selenoid.png"></code>
+  <code><img width="5%" title="Jira" src="images/jira.png"></code>
+  <code><img width="5%" title="Confluence" src="images/confluence.png"></code>
+  <code><img width="5%" title="Postman" src="images/postman.png"></code>
+  <code><img width="5%" title="Requests" src="images/requests.png"></code>
+</p>
+
+<!--Projects-->
+
+## Projects
+1. QA GURU diploma testing project Web UI and API for online cinema START.
+- [START](https://github.com/camelclassik85/qa_guru_python_diploma)
+2. QA GURU practice for mobile testing 
+- [WIKI_Android_bstack+emulator+real_device](https://github.com/camelclassik85/qa_guru_python_10_22_hw) 
+- [Android + IOS test in one project on bstack](https://github.com/camelclassik85/qa_guru_python_10_21_hw)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=camelclassik85&theme=solarized_dark)
