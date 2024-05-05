@@ -30,7 +30,7 @@
   <code><img width="5%" title="Python" src="images/python.png"></code>
   <code><img width="5%" title="Pytest" src="images/pytest.png"></code>
   <code><img width="5%" title="Selene" src="images/selene.png"></code>
-  <code><img width="4%" title="Selenium" src="images/selenium.png"></code>
+  <code><img width="4.5%" title="Selenium" src="images/selenium.png"></code>
   <code><img width="5%" title="Allure Report" src="images/allure_report.png"></code>
   <code><img width="5%" title="Allure TestOps" src="images/allure_testops.png"></code>
   <code><img width="5%" title="Appium" src="images/appium.svg"></code>
