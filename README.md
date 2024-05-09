@@ -3,7 +3,6 @@
       Hi there, I'm Alexander 👋
    </h1>
 </div>
-
 <!--About me-->
 
 ## About me
@@ -11,18 +10,12 @@
 - I write autotests in Python
 - Email: camel1985@mail.ru
 - Contacts:
-
-<p>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <p>
   <a href="https://t.me/Alexander_Dulalaev"><img width="32px" alt="Telegram" title="Telegram" src="images/tg.png"/></a>
-  &#8287;
   <a href="https://www.linkedin.com/in/alexander-dulalaev"><img width="35px" alt="LinkedIn" title="LinkedIn" src="images/linkedin.png/"></a>
-  &#8287;
- <a href="mailto:camelclassik1985@gmail.com"><img width="38px" alt="Write me Email" title="Gmail" src="images/gmail.png"/></a>
+  <a href="mailto:camelclassik1985@gmail.com"><img width="38px" alt="Write me Email" title="Gmail" src="images/gmail.png"/></a>
   
 <!--Stack and tools-->
-
-&#8287;&#8287;&#8287;&#8287;&#8287;
 ## Stack
 <p>
   <code><img width="5%" title="Python" src="images/python.png"></code>
@@ -32,7 +25,6 @@
   <code><img width="5%" title="Appium" src="images/appium.svg"></code>
 </p>
 
-&#8287;&#8287;&#8287;&#8287;&#8287;
 ## Tools
 <p>
   <code><img width="5%" title="Pycharm" src="images/intellij_pycharm.png"></code>
