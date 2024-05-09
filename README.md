@@ -4,7 +4,6 @@
    </h1>
 </div>
 
-
 <!--About me-->
 
 ## About me
@@ -22,7 +21,6 @@
  <a href="mailto:camelclassik1985@gmail.com"><img width="38px" alt="Write me Email" title="Gmail" src="images/gmail.png"/></a>
   
 <!--Stack and tools-->
-
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ## Stack
 <p>
@@ -48,7 +46,6 @@
 </p>
 
 <!--Projects-->
-
 ## Projects
 1. QA GURU diploma testing project Web UI and API for online cinema START.
 - [START](https://github.com/camelclassik85/qa_guru_python_diploma)
