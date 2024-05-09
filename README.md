@@ -5,6 +5,7 @@
 </div>
 
 <!--About me-->
+
 ## About me
 - I'm manual and automation Engineer from Obninsk.
 - I write autotests in Python
@@ -20,6 +21,7 @@
  <a href="mailto:camelclassik1985@gmail.com"><img width="38px" alt="Write me Email" title="Gmail" src="images/gmail.png"/></a>
   
 <!--Stack and tools-->
+
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ## Stack
 <p>
@@ -29,6 +31,7 @@
   <code><img width="4.5%" title="Selenium" src="images/selenium.png"></code>
   <code><img width="5%" title="Appium" src="images/appium.svg"></code>
 </p>
+
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ## Tools
 <p>
