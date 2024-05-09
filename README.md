@@ -5,7 +5,6 @@
 </div>
 
 <!--About me-->
-
 ## About me
 - I'm manual and automation Engineer from Obninsk.
 - I write autotests in Python
@@ -30,7 +29,6 @@
   <code><img width="4.5%" title="Selenium" src="images/selenium.png"></code>
   <code><img width="5%" title="Appium" src="images/appium.svg"></code>
 </p>
-
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ## Tools
 <p>
@@ -46,6 +44,7 @@
 </p>
 
 <!--Projects-->
+
 ## Projects
 1. QA GURU diploma testing project Web UI and API for online cinema START.
 - [START](https://github.com/camelclassik85/qa_guru_python_diploma)
